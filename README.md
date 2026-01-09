@@ -54,7 +54,7 @@ github. In this tutorial you will learn:
 
 3.
   1. Put your github account's username as the file's name.
-  2. Fill the file with the following information
+  2. Fill the file with the following information  
     > Name:  
     > Email:  
     > Class:  

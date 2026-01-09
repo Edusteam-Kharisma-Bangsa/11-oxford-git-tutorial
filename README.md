@@ -46,25 +46,25 @@ github. In this tutorial you will learn:
 
 ### Adding a New File
 
-1. Click on the Individual directory.  
-  ![](./assets/individual-goto-directory.png)
+ 1. Click on the Individual directory.  
+   ![](./assets/individual-goto-directory.png)
 
-2. Click on the Add file dropdown. Then click on Create new file option.
-  ![](./assets/individual-create-newfile.png)
+ 2. Click on the Add file dropdown. Then click on Create new file option.
+   ![](./assets/individual-create-newfile.png)
 
-3. After that you will be presented with a text editor.  
+ 3. After that you will be presented with a text editor.  
 
-  1. Put your github account's username as the file's name.
+   1. Put your github account's username as the file's name.
 
-  2. Fill the file with the following information
+   2. Fill the file with the following information
 
-    > Name:  
-    > Email:  
-    > Class:  
-    > Github Account:  
+      > Name:
+      > Email:
+      > Class:
+      > Github Account:
 
-  3. Click on the commit changes button
-  ![](./assets/individual-newfile-done.png)
+   3. Click on the commit changes button
+   ![](./assets/individual-newfile-done.png)
 
-4. Add a commit message. Make sure it has a meaningful message. Then click on the commit changes button to confirm.
-  ![](./assets/individual-commit.png)
+ 4. Add a commit message. Make sure it has a meaningful message. Then click on the commit changes button to confirm.
+   ![](./assets/individual-commit.png)

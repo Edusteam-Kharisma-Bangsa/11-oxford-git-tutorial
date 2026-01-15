@@ -88,10 +88,12 @@ github. In this tutorial you will learn:
   1. ![](./assets/pullrequest-go-back.png)
   2. ![](./assets/pullrequest-open.png)
   3. ![](./assets/pullrequest-title.png)
+
+> [!NOTE]  
+> You may not have the green merge pull request button since you aren't added yet as a contributor.
+> Please inform the teacher your github account and check your email for invitation.
+
   4. ![](./assets/pullrequest-merge.png)
-     > [!NOTE]  
-     > You might not have the green commit button since you were'nt added yet as a contributor.
-     > Please inform the teacher your github account and check your email for invitation.
   5. ![](./assets/pullrequest-merge-commit.png)
   6. ![](./assets/pullrequest-done.png)
 
